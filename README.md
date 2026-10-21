@@ -1296,7 +1296,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Base token risk verdicts (honeypot and tax simulation), prices, balances and tx data; pay per call in USDC via x402.
 - [Agent Einstein](https://emc2ai.io/mcp) `https://emc2ai.io/api/mcp`
   [![Agent Einstein MCP connector](https://glama.ai/mcp/connectors/io.emc2ai/einstein/badges/score.svg)](https://glama.ai/mcp/connectors/io.emc2ai/einstein)
-  🔓 - Crypto and market intelligence: 19 free tools, forecasts, whale flows, token scans; paid tools via credit or x402.
+  🔓 - Crypto and market intelligence: 18 free tools, forecasts, whale flows, token scans; paid tools via credit or x402.
 
 
 - [Agent Margin Router](https://agentmarginrouter.com) `https://agent-margin-router-production.up.railway.app/mcp`
